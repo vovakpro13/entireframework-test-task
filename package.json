@@ -14,7 +14,9 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.10.0",
-    "react-spinners": "^0.13.8"
+    "react-spinners": "^0.13.8",
+    "styled-components": "^5.3.9",
+    "vite-plugin-babel-macros": "^1.0.6"
   },
   "devDependencies": {
     "@types/node": "^18.15.11",
